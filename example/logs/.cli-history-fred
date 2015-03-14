@@ -1,0 +1,10 @@
+exit 
+exit 
+enable 
+configure terminal 
+lang 
+ll
+exit 
+help 
+help show
+exit 

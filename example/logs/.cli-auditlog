@@ -1,0 +1,19 @@
+(2012-Mar-20 Tue 13:50:38) [fred@localhost] [Router> ] enable 
+(2012-Mar-20 Tue 13:51:01) [fred@localhost] [Router# ] configure terminal 
+(2012-Mar-20 Tue 13:51:03) [fred@localhost] [Router(config)# ] ll
+(2012-Mar-20 Tue 13:51:10) [fred@localhost] [Router(config)# ] end
+(2012-Mar-20 Tue 13:51:13) [fred@localhost] [Router(config)# ] exit 
+(2012-Mar-20 Tue 13:51:45) [fred@localhost] [Router# ] exit 
+(2012-Nov- 7 Wed 20:52:30) [@localhost] [Router> ] show history 
+(2012-Nov- 7 Wed 20:52:34) [@localhost] [Router> ] show interface 
+(2012-Nov- 7 Wed 20:52:55) [@localhost] [Router> ] enable 
+(2012-Nov- 7 Wed 20:52:56) [@localhost] [Router> ] exit 
+(2012-Nov- 7 Wed 20:53:38) [@localhost] [Router> ] config t
+(2012-Nov- 7 Wed 20:53:44) [fred@localhost] [Router> ] enable 
+(2012-Nov- 7 Wed 20:53:49) [fred@localhost] [Router# ] configure terminal 
+(2012-Nov- 7 Wed 20:53:59) [fred@localhost] [Router(config)# ] lang 
+(2012-Nov- 7 Wed 20:54:11) [fred@localhost] [Router(config)# ] ll
+(2012-Nov- 7 Wed 20:54:16) [fred@localhost] [Router(config)# ] exit 
+(2012-Nov- 7 Wed 20:54:28) [fred@localhost] [Router# ] help 
+(2012-Nov- 7 Wed 20:54:35) [fred@localhost] [Router# ] help show
+(2012-Nov- 7 Wed 20:57:04) [fred@localhost] [Router# ] exit 
